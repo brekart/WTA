@@ -13,4 +13,4 @@ A program that aims to ease the difficulty of certain aspects of War Thunder. Cu
   1. Weapons testing/penetration simulator
   2. Aircraft/tank camo viewer
   3. User-funded repository of joystick/controller mappings for easy access
-  4. GE/RP/etc calculators (How much will I pay to pay to buy my way to x?)
+  4. GE/RP/etc calculators (How much will I have to pay to buy my way to x?)
